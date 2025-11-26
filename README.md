@@ -4,7 +4,7 @@ A curated list of powerful AI tools, apps, and resources for developers, creator
 
 ---
 
-## 🔗 Quick Links
+<!-- ## 🔗 Quick Links
 
 - 🎥 **YouTube video about this project**  
   [Watch on YouTube](https://youtube.com/your-video-link)
@@ -15,7 +15,7 @@ A curated list of powerful AI tools, apps, and resources for developers, creator
 - 🌐 **Live demo / companion website (optional)**  
   [Browse tools online](https://your-site-link.com)
 
----
+---   -->
 
 ## 🧠 What is *Awesome AI Tools*?
 
@@ -49,9 +49,38 @@ Organize your tools by category, for example:
 - 🧰 **Productivity & Automation**
 - 🧪 **Experimental / Fun AI**
 
-Example structure:
+## 💬 Try These LLMs in Your Browser
 
-```md
+- **OpenAI – ChatGPT (GPT-4.1 / GPT-4o / etc.)**  
+  https://chatgpt.com/
+
+- **Google – Gemini**  
+  https://gemini.google.com/
+
+- **Perplexity – Answer Engine (mix modeli + web)**  
+  https://www.perplexity.ai/
+
+- **Microsoft – Copilot**  
+  https://copilot.microsoft.com/
+  
+- **Anthropic – Claude**  
+  https://claude.ai/
+
+- **Meta – Meta AI (Llama-based)**  
+  https://www.meta.ai/
+
+- **Mistral – Le Chat (Mistral / Pixtral / Large)**  
+  https://chat.mistral.ai/
+
+- **xAI – Grok**  
+  https://x.ai/grok
+
+- **Alibaba – Qwen Chat**  
+  https://chat.qwen.ai/
+
+- **Cohere – Playground (Command / Aya models)**  
+  https://dashboard.cohere.com/playground
+
 ## ✍️ Writing & Copywriting
 
 - [Tool Name](https://tool-url.com) – Short description of what it does and why it’s good.
