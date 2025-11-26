@@ -105,12 +105,12 @@ Open in your browser and start chatting immediately – no API keys or install r
 - **Bielik – Polish Large Language Model**  
   https://chat.bielik.ai/
   Bielik is a non-profit, community-based project dedicated to creating Polish language models (LLMs). The models understand the Polish language, culture, and context, operate locally, and are developed by the      SpeakLeash Foundation, Partners, and the community.
-
+<!--
 ## ✍️ Writing & Copywriting
 
 - [Tool Name](https://tool-url.com) – Short description of what it does and why it’s good.
 - [Another Tool](https://...) – Focused on blogs, scripts, marketing, etc.
-
+-->
 ## 💻 Coding & Developer Tools
 
 AI tools that live in your editor / IDE and help you write, refactor and understand code.
