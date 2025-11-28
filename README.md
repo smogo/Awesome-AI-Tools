@@ -1,140 +1,140 @@
 # 🤖 Awesome AI Tools
 
-A curated list of powerful AI tools, apps, and resources for developers, creators, and productivity nerds.
+Starannie wyselekcjonowana lista najciekawszych narzędzi AI, aplikacji i zasobów dla programistów, twórców i maniaków produktywności.
 
 ---
 
-<!-- ## 🔗 Quick Links
+<!-- ## 🔗 Szybkie linki
 
-- 🎥 **YouTube video about this project**  
-  [Watch on YouTube](https://youtube.com/your-video-link)
+- 🎥 **Film na YouTube o tym projekcie**  
+  [Obejrzyj na YouTube](https://youtube.com/your-video-link)
 
-- 📺 **My YouTube channel**  
-  [Subscribe for more AI content](https://youtube.com/your-channel-link)
+- 📺 **Mój kanał YouTube**  
+  [Subskrybuj po więcej treści o AI](https://youtube.com/your-channel-link)
 
-- 🌐 **Live demo / companion website (optional)**  
-  [Browse tools online](https://your-site-link.com)
+- 🌐 **Demo / strona towarzysząca (opcjonalnie)**  
+  [Przeglądaj narzędzia online](https://your-site-link.com)
 
 ---   -->
 
-## 🧠 What is *Awesome AI Tools*?
+## 🧠 Czym jest *Awesome AI Tools*?
 
-**Awesome AI Tools** is a hand-picked collection of AI-powered tools that help with:
+**Awesome AI Tools** to ręcznie wybrana kolekcja narzędzi opartych na sztucznej inteligencji, które pomagają w:
 
-- content creation (text, video, audio),
-- coding and automation,
-- design and images,
-- productivity and workflows,
-- learning and research.
+- tworzeniu treści (tekst, wideo, audio),
+- kodowaniu i automatyzacji,
+- projektowaniu i grafice,
+- produktywności i przepływach pracy,
+- nauce i researchu.
 
-The goal is simple:  
-> **Find the best AI tools fast, without wasting time on searching thousands of sites.**
+Cel jest prosty:  
+> **Znajdź najlepsze narzędzia AI szybko, bez tracenia czasu na przekopywanie tysięcy stron.**
 
-You can use this repo as:
-- a personal bookmark list,
-- a resource to share with your audience,
-- a base for your own AI tools directory.
-
----
-
-## 🧩 Categories
-
-Organize your tools by category, for example:
-
-- ✍️ **Writing & Copywriting AI**
-- 🎬 **Video & Audio AI**
-- 🎨 **Image & Design AI**
-- 💻 **Coding & Developer Tools**
-- 📚 **Research & Learning**
-- 🧰 **Productivity & Automation**
-- 🧪 **Experimental / Fun AI**
+Możesz używać tego repozytorium jako:
+- osobistej listy zakładek,
+- zasobu do udostępniania swojej społeczności,
+- bazy pod własny katalog narzędzi AI.
 
 ---
 
-## 💬 Chat-based LLMs (no setup – just type a prompt)
+## 🧩 Kategorie
 
-Open in your browser and start chatting immediately – no API keys or install required.
+Możesz uporządkować narzędzia według kategorii, na przykład:
+
+- ✍️ **Writing & Copywriting AI (Pisanie i copywriting)**
+- 🎬 **Video & Audio AI (Wideo i audio)**
+- 🎨 **Image & Design AI (Grafika i projektowanie)**
+- 💻 **Coding & Developer Tools (Programowanie i dev)**
+- 📚 **Research & Learning (Badania i nauka)**
+- 🧰 **Productivity & Automation (Produktywność i automatyzacja)**
+- 🧪 **Experimental / Fun AI (Eksperymentalne / dla zabawy)**
+
+---
+
+## 💬 Chat-based LLMs (bez konfiguracji – po prostu wpisz prompt)
+
+Otwierasz w przeglądarce i od razu możesz rozmawiać – bez kluczy API i instalacji.
 
 - **Microsoft Copilot**  
   https://copilot.microsoft.com/  
-  General-purpose AI assistant from Microsoft. Great for everyday Q&A, writing, brainstorming and browsing with built-in web access. Also powers Microsoft 365 Copilot Chat for work scenarios.  
-  _Best for:_ people already in the Microsoft ecosystem, quick productivity & office workflows.  
+  Asystent AI ogólnego przeznaczenia od Microsoftu. Świetny do codziennych pytań, pisania, burzy mózgów i przeglądania sieci z wbudowanym dostępem do internetu. Napędza także Microsoft 365 Copilot Chat w zastosowaniach biznesowych.  
+  _Najlepsze dla:_ osób korzystających z ekosystemu Microsoft, szybkich zadań biurowych i produktywności.  
 
 - **OpenAI – ChatGPT**  
   https://chatgpt.com/  
-  Chat interface for OpenAI’s latest flagship models (e.g. GPT-4.x / GPT-5.x, depending on plan). Handles text, code, images and voice, with strong reasoning and coding abilities.  
-  _Best for:_ general use, coding help, learning, creative writing, multimodal tasks.  
+  Interfejs czatu do najnowszych flagowych modeli OpenAI (np. GPT-4.x / GPT-5.x, w zależności od planu). Obsługuje tekst, kod, obrazy i głos, wyróżniając się rozumowaniem i pomocą w programowaniu.  
+  _Najlepsze dla:_ ogólnego użytku, pomocy w kodowaniu, nauki, kreatywnego pisania, zadań multimodalnych.  
 
 - **Google – Gemini**  
   https://gemini.google.com/  
-  Google’s AI assistant built on the Gemini model family. Helps with writing, planning, search and multimodal tasks; deeply integrated with Google ecosystem (Drive, Docs, Gmail, etc.).  
-  _Best for:_ Google users (Gmail, Docs, Android), long-form tasks & search.  
+  Asystent AI Google oparty na rodzinie modeli Gemini. Pomaga w pisaniu, planowaniu, wyszukiwaniu i zadaniach multimodalnych; jest mocno zintegrowany z ekosystemem Google (Drive, Docs, Gmail itd.).  
+  _Najlepsze dla:_ użytkowników Google (Gmail, Docs, Android), dłuższych zadań i wyszukiwania.  
 
 - **Anthropic – Claude**  
   https://claude.ai/  
-  Chat interface for the Claude 3.x / 3.5 family – known for long context, careful reasoning and working with big documents. Official apps are available on web and mobile.  
-  _Best for:_ analysis of long docs, structured writing, safer / more conservative assistant.  
+  Interfejs czatu dla rodziny Claude 3.x / 3.5 – znany z długiego kontekstu, ostrożnego rozumowania i pracy z dużymi dokumentami. Oficjalne aplikacje są dostępne w przeglądarce i na urządzeniach mobilnych.  
+  _Najlepsze dla:_ analizy długich dokumentów, uporządkowanego pisania, bardziej „ostrożnego” asystenta.  
 
 - **Meta – Meta AI (Llama-based)**  
   https://www.meta.ai/  
-  Assistant built on Meta’s latest Llama models, available on the web and inside Meta products (Instagram, Facebook, WhatsApp in many regions). Can chat, answer questions and generate images.  
-  _Best for:_ quick consumer chat & image generation, especially if you use Meta apps.  
+  Asystent oparty na najnowszych modelach Llama od Meta, dostępny w sieci oraz wewnątrz produktów Meta (Instagram, Facebook, WhatsApp w wielu regionach). Potrafi rozmawiać, odpowiadać na pytania i generować obrazy.  
+  _Najlepsze dla:_ szybkich rozmów i generowania obrazów, szczególnie jeśli korzystasz z aplikacji Meta.  
 
 - **Mistral – Le Chat**  
   https://chat.mistral.ai/  
-  Web chat for Mistral’s models (including Pixtral for multimodal). Strong European-centric option with focus on privacy and enterprise use.  
-  _Best for:_ EU-friendly assistant, research, coding and image-capable chat.  
+  Webowy czat do modeli Mistral (w tym Pixtral do zadań multimodalnych). Silna, europejsko-centryczna opcja z naciskiem na prywatność i zastosowania enterprise.  
+  _Najlepsze dla:_ użytkowników szukających „EU-friendly” asystenta, researchu, kodowania i czatu z obsługą obrazu.  
 
 - **Alibaba – Qwen Chat**  
   https://chat.qwen.ai/  
-  Chat interface for Qwen models from Alibaba (text + vision + docs). Offers image/video understanding, generation, web search and document processing.  
-  _Best for:_ users interested in the Chinese ecosystem, multimodal & office assistant.  
+  Interfejs czatu dla modeli Qwen od Alibaba (tekst + wizja + dokumenty). Oferuje rozumienie obrazów/wideo, generowanie treści, wyszukiwanie w sieci i przetwarzanie dokumentów.  
+  _Najlepsze dla:_ osób zainteresowanych chińskim ekosystemem, multimodalnego asystenta biurowego.  
 
 - **Perplexity – AI Answer Engine**  
   https://www.perplexity.ai/  
-  Search-style chat that combines multiple top models with live web browsing and citations. Positions itself as an “answer engine”, not a classic chatbot.  
-  _Best for:_ research, fact-checking, quick answers with links to sources.  
+  Czat działający jak wyszukiwarka, łączący wiele topowych modeli z bieżącym przeglądaniem sieci i cytowaniami. Pozycjonuje się jako „answer engine”, a nie klasyczny chatbot.  
+  _Najlepsze dla:_ researchu, fact-checkingu, szybkich odpowiedzi z linkami do źródeł.  
 
 - **Cohere – Playground (Command / Aya models)**  
   https://dashboard.cohere.com/playground  
-  Browser playground to test Cohere’s chat and embeddings models without writing code. Good way to explore enterprise-oriented models (Command, Aya).  
-  _Best for:_ experimenting with Cohere models before integrating the API.  
+  Środowisko w przeglądarce do testowania modeli czatu i embeddingów Cohere bez pisania kodu. Dobry sposób na poznanie modeli nastawionych na zastosowania enterprise (Command, Aya).  
+  _Najlepsze dla:_ eksperymentowania z modelami Cohere przed integracją przez API.  
 
 - **PLLuM – Polish Large Language Model**  
   https://pllum.clarin-pl.eu/pllum_8x7b  
-  The PLLuM (Polish Large Language Model) project is an initiative aimed at creating an open Polish language model.
+  Projekt PLLuM (Polish Large Language Model) ma na celu stworzenie otwartego, polskojęzycznego modelu językowego.
 
 - **Bielik – Polish Large Language Model**  
   https://chat.bielik.ai/  
-  Bielik is a non-profit, community-based project dedicated to creating Polish language models (LLMs). The models understand the Polish language, culture, and context, operate locally, and are developed by the SpeakLeash Foundation, partners, and the community.
+  Bielik to niekomercyjny, społecznościowy projekt tworzenia polskojęzycznych modeli językowych (LLM). Modele rozumieją polski język, kulturę i kontekst, mogą działać lokalnie i są rozwijane przez Fundację SpeakLeash, partnerów oraz społeczność.
 
 ---
 
 ## 🎨 Image & Design AI
 
-AI tools for generating and editing images, graphics and 3D assets.
+Narzędzia AI do generowania i edycji obrazów, grafik oraz assetów 3D.
 
-- **DreamStudio – Stable Diffusion interface**  
+- **DreamStudio – interfejs Stable Diffusion**  
   https://dreamstudio.ai/generate  
-  This is an interface for Stable Diffusion, an AI tool for generating high-quality images and graphics from prompts. It offers flexibility for use in art, marketing and education, and also enables creating video material from images.
+  Interfejs do Stable Diffusion, narzędzia AI generującego wysokiej jakości obrazy i grafiki na podstawie promptów tekstowych. Oferuje elastyczne zastosowania w sztuce, marketingu i edukacji, a dodatkowo umożliwia tworzenie materiałów wideo z obrazów.
 
 - **Midjourney – AI art & visual exploration**  
   https://midjourney.com  
-  This tool focuses on creating unique images and visualizations that can serve as inspiration or as artistic and design material. Although the main interface is currently based on exploration and experimentation on a Discord server, browser-based generation directly from the website is being tested.
+  Narzędzie skupione na tworzeniu unikalnych obrazów i wizualizacji, które mogą służyć jako inspiracja lub gotowe materiały artystyczne i projektowe. Główny interfejs opiera się obecnie na eksploracji i eksperymentowaniu na serwerze Discord, ale trwają testy generowania bezpośrednio z poziomu strony WWW.
 
-- **Google Imagen (via Gemini)**  
+- **Google Imagen (przez Gemini)**  
   https://gemini.google.com  
-  Provides access to the Google Imagen 3 model, which converts text into images. It can generate visuals in a wide variety of styles, from photorealistic scenes to richly textured oil-paint-style artwork.
+  Zapewnia dostęp do modelu Google Imagen 3, który przekształca tekst w obrazy. Potrafi generować grafiki w wielu stylach – od fotorealistycznych scen po bogato teksturowane obrazy przypominające olej na płótnie.
 
-- **Luma Labs – 3D from images**  
+- **Luma Labs – 3D z obrazów**  
   https://lumalabs.ai/  
-  An advanced AI platform that specializes in automatically generating realistic 3D models from photos or simple sketches. It helps designers, architects and game creators by transforming 2D images into high-quality 3D models.
+  Zaawansowana platforma AI, która specjalizuje się w automatycznym generowaniu realistycznych modeli 3D na podstawie zdjęć lub prostych szkiców. Wspiera projektantów, architektów i twórców gier, zamieniając obrazy 2D w wysokiej jakości modele 3D.
 
-- **3Daily – simple 3D generation**  
+- **3Daily – proste generowanie 3D**  
   https://3daily.ai/  
-  A platform for generating 3D models that stands out for its simplicity and accessibility, making it ideal for beginners. It lets you quickly create 3D models using predefined templates.
+  Platforma do generowania modeli 3D wyróżniająca się prostotą i dostępnością – idealna dla początkujących użytkowników. Umożliwia szybkie tworzenie modeli 3D w oparciu o predefiniowane szablony.
 
-- **Other image / 3D creation tools**  
+- **Inne narzędzia do obrazów i 3D**  
   https://picsart.com/ai-image-generator  
   https://neural.love/ai-art-generator  
   https://www.craiyon.com/  
@@ -145,235 +145,235 @@ AI tools for generating and editing images, graphics and 3D assets.
   https://portal.deepmotion.com/  
   https://backflip.ai/  
   https://app-v4.fronty.com/  
-  These tools are listed in the context of image creation or working with 3D objects. They are used for creative applications of AI in generating graphics and visualizations (both images and 3D objects).
+  Te narzędzia pojawiają się w kontekście generowania obrazów lub pracy z obiektami 3D. Służą do kreatywnego wykorzystania AI w zakresie tworzenia grafiki i wizualizacji (zarówno 2D, jak i 3D).
 
 ---
 
 ## 🎬 Video & Audio AI
 
-Tools for generating and editing video, audio and music.
+Narzędzia do generowania i edycji wideo, audio oraz muzyki.
 
-- **HeyGen – AI avatars & video translation**  
+- **HeyGen – awatary AI i tłumaczenie wideo**  
   https://www.heygen.com/  
-  A platform for creating personalized videos using AI avatars. It offers video translation, automatic subtitles and lip-sync in more than 175 languages.
+  Platforma umożliwiająca tworzenie spersonalizowanych filmów z wykorzystaniem awatarów AI. Oferuje tłumaczenie wideo, automatyczne napisy oraz synchronizację ruchu warg w ponad 175 językach.
 
 - **Vozo – AI video editing & dubbing**  
   https://app.vozo.ai/  
-  An AI platform for editing, dubbing, translating and lip-syncing videos using text prompts. It can turn long-form videos into engaging short clips tailored to different social platforms.
+  Platforma AI do edycji, dubbingu, tłumaczenia i synchronizacji ruchu warg w filmach z wykorzystaniem poleceń tekstowych. Umożliwia przekształcanie długich materiałów wideo w angażujące krótkie klipy dopasowane do różnych platform społecznościowych.
 
-- **Murf – AI voiceover**  
+- **Murf – syntezator głosu do wideo**  
   https://murf.ai  
-  An advanced AI tool for generating synthetic voices that sound natural. It’s used in video production, e-learning and presentations, offering a wide variety of voices, languages and accents.
+  Zaawansowane narzędzie AI do generowania syntetycznych, naturalnie brzmiących głosów. Wykorzystywane w produkcji wideo, e-learningu i prezentacjach, oferuje dużą różnorodność głosów, języków i akcentów.
 
-- **AIVA – AI music composition**  
+- **AIVA – komponowanie muzyki AI**  
   https://aiva.ai  
-  An AI platform specializing in composing music for commercial use, such as soundtracks for films and video games. It creates new compositions by analyzing large datasets of existing music.
+  Platforma AI specjalizująca się w komponowaniu muzyki komercyjnej, np. do ścieżek dźwiękowych filmów i gier wideo. Tworzy nowe kompozycje, analizując ogromne zbiory istniejących utworów.
 
-- **Kits AI – AI instruments & sound design**  
+- **Kits AI – instrumenty i sound design**  
   https://www.kits.ai/ai-instruments  
-  An innovative tool for generating custom sound effects and soundtracks with AI. Ideal for game, film and mobile app creators who need unique, personalized sounds.
+  Innowacyjne narzędzie do generowania niestandardowych efektów dźwiękowych i ścieżek muzycznych za pomocą AI. Idealne dla twórców gier, filmów i aplikacji mobilnych, którzy potrzebują unikalnych, spersonalizowanych brzmień.
 
-- **Suno – text-to-song**  
+- **Suno – tekst na piosenkę**  
   https://sunoai.ai  
-  An application that uses generative AI to create realistic music tracks from text descriptions. It allows users to generate complete songs with vocals and instrumentation.
+  Aplikacja wykorzystująca generatywną AI do tworzenia realistycznie brzmiących utworów muzycznych na podstawie opisów tekstowych. Pozwala generować kompletne piosenki z wokalem i instrumentarium.
 
-- **Superpodcast – docs to podcasts**  
+- **Superpodcast – dokumenty w podcast**  
   https://www.superpodcast.ai/  
-  A platform that uses AI to turn documents, notes or articles into interactive podcasts. You can listen to generated content and interact with virtual AI hosts in real time.
+  Platforma, która za pomocą AI przekształca dokumenty, notatki czy artykuły w interaktywne podcasty. Umożliwia słuchanie wygenerowanych treści i interakcję z wirtualnymi gospodarzami AI w czasie rzeczywistym.
 
-- **Audiolizer – research papers to audio**  
+- **Audiolizer – artykuły naukowe do audio**  
   https://audiolizer.cloud/galery  
-  An AI platform that converts scientific works (PDFs or links) into engaging audio materials. It helps students and researchers absorb knowledge more conveniently, skipping things like bibliographies.
+  Platforma AI konwertująca prace naukowe (PDF lub linki) na angażujące materiały audio. Ułatwia studentom i badaczom przyswajanie wiedzy w wygodny sposób, pomijając np. bibliografie.
 
-- **Other audio / video tools**  
+- **Inne narzędzia audio / wideo**  
   https://mubert.com  
   https://pro.splashmusic.com/  
   https://www.veed.io  
-  These tools are listed in the context of working with audio or promotion/social media, suggesting they are used for creating, editing or analyzing audio and video content.
+  Te narzędzia pojawiają się w kontekście pracy z dźwiękiem oraz promocji/social media, co sugeruje ich wykorzystanie do tworzenia, edycji lub analizy treści audio i wideo.
 
 ---
 
 ## ✍️ Writing & Copywriting AI
 
-AI tools for writing, paraphrasing and improving text.
+Narzędzia AI do pisania, parafrazowania i ulepszania tekstu.
 
-- **Rytr – AI writing assistant**  
+- **Rytr – asystent pisania**  
   https://rytr.me/  
-  A text generation tool that uses AI to create a wide range of content, from blog posts to product descriptions. Users can customize tone, style and format to match their needs.
+  Narzędzie do generowania tekstów, które wykorzystuje AI do tworzenia szerokiego zakresu treści – od wpisów blogowych po opisy produktów. Pozwala dopasować ton, styl i format do potrzeb użytkownika.
 
-- **Writesonic – marketing & blog content**  
+- **Writesonic – treści marketingowe i blogi**  
   https://writesonic.com  
-  Helps users create high-quality marketing copy, blog articles and emails by generating engaging text from descriptions or keywords. Its strength is quickly generating diverse types of content.
+  Pomaga w tworzeniu wysokiej jakości treści marketingowych, artykułów blogowych i e-maili, generując angażujące teksty na podstawie opisów lub słów kluczowych. Jego mocną stroną jest szybkie tworzenie różnych typów treści.
 
-- **Copy.ai – creative copy generator**  
+- **Copy.ai – kreatywny copywriting**  
   https://copy.ai  
-  A tool for automatically generating creative copy such as ad slogans, product descriptions and social media post ideas. It’s easy to use thanks to its intuitive interface and wide range of templates.
+  Narzędzie do automatycznego generowania kreatywnych tekstów, takich jak slogany reklamowe, opisy produktów czy pomysły na posty w mediach społecznościowych. Jest przyjazne dla użytkownika dzięki intuicyjnemu interfejsowi i wielu gotowym szablonom.
 
-- **Wordtune – rewriting & style**  
+- **Wordtune – przepisuj i ulepszaj styl**  
   https://wordtune.com  
-  An AI-powered text editing tool that improves readability and writing style by suggesting alternative phrases and sentence structures. It works in real time and integrates with popular writing tools.
+  Narzędzie oparte na AI, które pomaga poprawić czytelność i styl pisania, sugerując alternatywne sformułowania i struktury zdań. Działa w czasie rzeczywistym i integruje się z popularnymi edytorami tekstu.
 
-- **QuillBot – paraphrasing & grammar**  
+- **QuillBot – parafraza i gramatyka**  
   https://quillbot.com/  
-  A paraphrasing and text improvement tool that uses AI to rewrite, refine style and help avoid plagiarism. It smooths out writing and is useful for improving overall text quality.
+  Narzędzie do parafrazowania i ulepszania tekstów, wykorzystujące AI do redagowania, poprawy stylu i ograniczania ryzyka plagiatu. Ułatwia „wygładzenie” tekstu i poprawę jego jakości.
 
-- **Other writing & text-checking tools**  
+- **Inne narzędzia do pisania i weryfikacji tekstu**  
   https://copyleaks.com  
   https://jenni.ai/  
-  These tools are listed in the section on writing, translators and grammar, suggesting they help with drafting, checking and validating text.
+  Narzędzia wymieniane w sekcji dotyczącej pisania, translatorów i gramatyki – wspierają tworzenie, sprawdzanie i weryfikację treści tekstowych.
 
 ---
 
 ## 💻 Coding & Developer Tools
 
-AI tools that live in your editor / IDE and help you write, refactor and understand code.
+Narzędzia AI zintegrowane z edytorami/IDE, pomagające pisać, refaktoryzować i rozumieć kod.
 
 - **GitHub Copilot – AI pair programmer**  
   https://github.com/features/copilot  
-  Deeply integrated into VS Code, JetBrains and other IDEs. Provides autocomplete, inline suggestions, chat, and now “agent” mode that can edit files and work across a repo.  
-  _Best for:_ GitHub users, everyday coding in mainstream languages, repo-wide help.  
+  Głęboko zintegrowany z VS Code, JetBrains i innymi IDE. Zapewnia podpowiedzi autouzupełniania, sugestie inline, chat oraz tryb „agenta”, który może edytować pliki i pracować w całym repozytorium.  
+  _Najlepsze dla:_ użytkowników GitHuba, codziennego programowania w popularnych językach, wsparcia na poziomie całego repo.  
 
-- **Microsoft 365 Copilot Chat (for work)**  
+- **Microsoft 365 Copilot Chat (dla firm)**  
   https://copilot.microsoft.com/  
   https://m365.cloud.microsoft/  
-  Business-oriented Copilot that can reason over emails, documents, meetings and files in your Microsoft 365 tenant – plus general chat and coding assistance via GPT-based models.  
-  _Best for:_ enterprise / corporate environments heavily using Microsoft 365.  
+  Biznesowy Copilot, który potrafi wnioskować na podstawie e-maili, dokumentów, spotkań i plików w Twoim tenantcie Microsoft 365 – plus ogólny czat i pomoc w kodowaniu oparte na modelach GPT.  
+  _Najlepsze dla:_ środowisk korporacyjnych silnie opartych na Microsoft 365.  
 
 - **Cursor – AI-first code editor**  
   https://cursor.com/  
-  An AI-native fork of VS Code designed around chat, agents and repo-wide refactors. Supports multiple back-end models (OpenAI, Anthropic, etc.) and can act as an active coding agent.  
-  _Best for:_ heavy AI-assisted development, greenfield projects, rapid prototyping.  
+  AI-native’owy fork VS Code zbudowany wokół chatu, agentów i refaktoryzacji na poziomie repo. Obsługuje wiele modeli (OpenAI, Anthropic itd.) i może działać jako aktywny agent kodujący.  
+  _Najlepsze dla:_ intensywnej pracy z AI przy programowaniu, nowych projektów, szybkiego prototypowania.  
 
-- **Windsurf Editor – agentic IDE**  
+- **Windsurf Editor – agentyczne IDE**  
   https://windsurf.com/editor  
-  AI-native IDE focusing on “flow state”: agentic workflows (Cascade), in-editor chat, automatic web preview and terminal integration. Built to let the AI build and refactor entire apps.  
-  _Best for:_ developers wanting an AI agent that can drive larger coding tasks end-to-end.  
+  IDE zorientowane na „flow state”: agentyczne workflowy (Cascade), chat w edytorze, automatyczny podgląd webowy i integracja z terminalem. Zaprojektowane tak, by AI mogła budować i refaktoryzować całe aplikacje.  
+  _Najlepsze dla:_ developerów, którzy chcą, by agent AI prowadził większe zadania programistyczne end-to-end.  
 
-- **Blackbox AI – code quality & debugging**  
+- **Blackbox AI – jakość kodu i debugowanie**  
   https://www.blackbox.ai/  
-  An AI tool for automating software testing, identifying and fixing bugs in code. It lets developers focus on higher-level design while maintaining high code quality and reliability.
+  Narzędzie AI do automatyzacji testowania oprogramowania, wykrywania i naprawy błędów w kodzie. Pozwala programistom skupić się na projektowaniu i architekturze, utrzymując wysoką jakość i niezawodność kodu.
 
-- **Unsloth – fine-tuning LLMs**  
+- **Unsloth – fine-tuning modeli LLM**  
   https://unsloth.ai/  
-  A tool focused on fine-tuning AI models, which is crucial for advanced development work and optimizing large language models.
+  Narzędzie ukierunkowane na dostrajanie (fine-tuning) modeli AI – kluczowe w zaawansowanych pracach deweloperskich i optymalizacji dużych modeli językowych.
 
-- **Storylist – automation for dev content**  
+- **Storylist – automatyzacja treści deweloperskich**  
   https://www.storylist.dev/  
-  A tool mentioned in the automation context, aimed at developers or people creating content with code (as suggested by the .dev domain).
+  Narzędzie wymienione w kontekście automatyzacji, skierowane do programistów lub osób tworzących treści związane z kodem (na co wskazuje domena .dev).
 
 ---
 
 ## 📚 Research & Learning
 
-AI tools to search, analyze and learn from scientific and educational content.
+Narzędzia AI do wyszukiwania, analizy i nauki na bazie treści naukowych oraz edukacyjnych.
 
-- **Scite – smart citations**  
+- **Scite – inteligentne cytowania**  
   https://scite.ai/  
-  An analytics platform for assessing the reliability of scientific publications by analyzing citations. It shows whether a study has been supported or contradicted by later work, helping you identify trustworthy sources.
+  Platforma analityczna do oceny wiarygodności publikacji naukowych poprzez analizę cytowań. Pokazuje, czy dane badanie zostało potwierdzone czy podważone przez późniejsze prace, pomagając znaleźć rzetelne źródła.
 
-- **Consensus – evidence-based answers**  
+- **Consensus – odpowiedzi oparte na dowodach**  
   https://consensus.app/  
-  An AI-powered search engine for researchers and students. It efficiently searches a database of more than 200 million peer-reviewed scientific articles and returns evidence-based answers.
+  Wyszukiwarka internetowa oparta na AI, przeznaczona dla naukowców i studentów. Umożliwia efektywne przeszukiwanie bazy ponad 200 milionów recenzowanych artykułów i zwraca odpowiedzi oparte na dowodach naukowych.
 
-- **Aithor – AI essay helper**  
+- **Aithor – pomoc przy esejach**  
   https://aithor.com  
-  An AI platform that helps with writing essays and academic papers, generating text with precisely formatted citations (APA, MLA, Harvard, etc.). It includes an “AI camouflage” feature intended to make AI-generated content harder to detect.
+  Platforma AI wspierająca pisanie esejów i tekstów akademickich, generująca treści z precyzyjnie sformatowanymi cytatami (APA, MLA, Harvard itp.). Zawiera funkcję „AI camouflage”, utrudniającą wykrycie tekstów generowanych przez AI.
 
-- **Samwell – AI writing for students**  
+- **Samwell – AI writing dla studentów**  
   https://www.samwell.ai/  
-  An AI tool for students and academics that assists with writing essays and research papers, generating original content with proper citations in various styles. Using Semihuman.ai technology, it aims to minimize plagiarism risk and detection by AI detectors.
+  Narzędzie AI dla studentów i środowiska akademickiego, pomagające w tworzeniu esejów i prac badawczych. Generuje oryginalne treści z odpowiednimi cytowaniami w różnych stylach. Dzięki technologii Semihuman.ai stara się minimalizować ryzyko plagiatu i wykrycia przez detektory AI.
 
-- **SciSpace / Typeset – paper discovery**  
+- **SciSpace / Typeset – odkrywanie publikacji**  
   https://typeset.io/  
-  The SciSpace platform lets you search over 270 million scientific papers and translate them into plain language. It makes it easier for researchers to browse literature and discover related publications.
+  Platforma SciSpace umożliwia wyszukiwanie ponad 270 milionów artykułów naukowych oraz tłumaczenie ich na prostszy, bardziej zrozumiały język. Ułatwia badaczom przegląd literatury i odkrywanie powiązanych prac.
 
-- **Eduaide – AI for teachers**  
+- **Eduaide – AI dla nauczycieli**  
   https://www.eduaide.ai/app/generator  
-  A platform that uses AI to help teachers design more engaging lessons. It can generate lesson ideas, interactive exercises and full lesson plans, saving teachers time.
+  Platforma wykorzystująca AI do pomocy nauczycielom w tworzeniu ciekawszych i bardziej angażujących lekcji. Potrafi generować pomysły na zajęcia, interaktywne ćwiczenia i kompletne plany lekcji, oszczędzając czas.
 
-- **Grapha – data & graph analysis**  
+- **Grapha – wizualizacja danych**  
   https://grapha.ai/playground  
-  A data-focused tool likely used for research or education to visualize and analyze complex information.
+  Narzędzie do pracy z danymi, przydatne w badaniach i edukacji do wizualizacji oraz analizy złożonych informacji.
 
-- **NotebookLM – AI notebook from Google**  
+- **NotebookLM – notes AI od Google**  
   https://notebooklm.google/  
-  A tool originally mentioned in a sales and management context, but – as the name suggests – it is also well suited for research and learning as an AI-powered notebook.
+  Narzędzie pierwotnie wymienione w kontekście sprzedaży i zarządzania, ale – jak sugeruje nazwa – świetnie nadaje się także do badań i nauki jako „inteligentny notatnik” zasilany AI.
 
 ---
 
 ## 🧰 Productivity & Automation
 
-AI tools for workflows, presentations, automation and business productivity.
+Narzędzia AI do przepływów pracy, prezentacji, automatyzacji i produktywności biznesowej.
 
-- **Slidesgo – presentation templates**  
+- **Slidesgo – szablony prezentacji**  
   https://slidesgo.com/  
-  A large library of free presentation templates for Google Slides and Microsoft PowerPoint, covering a wide range of styles and themes. It lets you quickly build professional-looking decks without designing from scratch.
+  Obszerna biblioteka darmowych szablonów prezentacji dla Google Slides i Microsoft PowerPoint, obejmująca szeroką gamę stylów i tematów. Umożliwia szybkie tworzenie zawodowo wyglądających slajdów bez projektowania od zera.
 
-- **Beautiful.ai – AI slide design**  
+- **Beautiful.ai – projektowanie slajdów z AI**  
   https://beautiful.ai  
-  A platform that uses AI to automatically design slides from a prompt, helping users create aesthetic and consistent presentations. It can suggest logical slide order and supporting visuals from your text.
+  Platforma wykorzystująca AI do automatycznego projektowania slajdów na podstawie promptu. Pomaga tworzyć estetyczne, spójne prezentacje i potrafi zaproponować logiczną strukturę oraz grafikę na bazie tekstu.
 
-- **Tome – interactive storytelling**  
+- **Tome – interaktywne opowiadanie historii**  
   https://tome.app  
-  A modern platform for building interactive presentations focused on storytelling with text, images and video. It encourages non-linear narratives and clickable experiences that increase audience engagement.
+  Nowoczesna platforma do tworzenia interaktywnych prezentacji z naciskiem na storytelling z użyciem tekstu, obrazów i wideo. Promuje nieliniową narrację i klikalne doświadczenia zwiększające zaangażowanie odbiorców.
 
-- **Gamma – decks, docs & web pages**  
+- **Gamma – prezentacje, dokumenty i strony**  
   https://gamma.app/create  
-  An AI-powered tool for quickly creating presentations, documents and simple web pages without coding or design skills. It offers customizable templates and supports real-time collaboration.
+  Narzędzie oparte na AI do szybkiego tworzenia prezentacji, dokumentów i prostych stron WWW bez potrzeby kodowania czy umiejętności projektowania. Oferuje konfigurowalne szablony i współpracę w czasie rzeczywistym.
 
-- **SlidesAI – text to slides**  
+- **SlidesAI – tekst na slajdy**  
   https://slidesai.io/pl  
-  A tool that automates slide creation with AI, quickly turning raw text into professional-looking presentation decks.
+  Narzędzie, które automatyzuje tworzenie prezentacji przy pomocy AI, szybko przekształcając surowy tekst w profesjonalnie wyglądające slajdy.
 
-- **Decktopus – AI presentation builder**  
+- **Decktopus – kreator prezentacji z AI**  
   https://www.decktopus.com/  
-  An innovative AI tool for automatically generating presentations from text. It helps you quickly produce clean, professional slides.
+  Innowacyjne narzędzie AI do automatycznego generowania prezentacji z tekstu. Umożliwia szybkie tworzenie schludnych, profesjonalnych decków.
 
-- **Otter – meeting notes & transcripts**  
+- **Otter – notatki i transkrypcje spotkań**  
   https://otter.ai/  
-  A transcription and voice-notes tool that uses AI to turn conversations, lectures and meetings into searchable, editable text. It’s valued for its high accuracy and ease of use.
+  Narzędzie do transkrypcji i notatek głosowych wykorzystujące AI, które zamienia rozmowy, wykłady i spotkania w przeszukiwalne, edytowalne zapisy tekstowe. Cenione za dużą dokładność i łatwość obsługi.
 
-- **Kome – AI assistant for info & meals**  
+- **Kome – asystent do treści i posiłków**  
   https://kome.ai/  
-  An intelligent assistant that helps collect links and summarize content, and can also assist with meal planning. It offers personalized recipe suggestions and optimized shopping lists.
+  Inteligentny asystent pomagający zbierać linki i podsumowywać treści, a także planować posiłki. Oferuje spersonalizowane propozycje przepisów i optymalizuje listy zakupów.
 
-- **Notion – all-in-one workspace**  
+- **Notion – workspace „wszystko w jednym”**  
   https://www.notion.com  
-  A highly versatile platform for project management, note-taking and databases. It enables efficient personal or team organization by combining many functions in one workspace.
+  Bardzo wszechstronna platforma do zarządzania projektami, notatkami i bazami danych. Umożliwia efektywną organizację pracy i współpracę zespołową, łącząc wiele funkcji w jednym miejscu.
 
-- **Thunderbit – automation platform**  
+- **Thunderbit – platforma automatyzacji**  
   https://thunderbit.com/  
-  An automation platform focused on speed and reliability, with a wide range of integrations with popular apps and APIs. It’s a solid choice for companies that need dependable automation.
+  Platforma automatyzacji nastawiona na szybkość i niezawodność, oferująca szeroką gamę integracji z popularnymi aplikacjami i API. Dobry wybór dla firm potrzebujących stabilnych rozwiązań automatyzujących.
 
-- **AI-Flow – AI project workflows**  
+- **AI-Flow – workflowy w projektach AI**  
   https://ai-flow.net  
-  A platform for managing workflows in AI projects, designed for machine-learning teams. It lets you define, plan and monitor tasks across your ML pipelines.
+  Platforma do zarządzania przepływem pracy w projektach AI, przeznaczona dla zespołów zajmujących się uczeniem maszynowym. Pozwala definiować, planować i monitorować zadania w ramach pipeline’ów ML.
 
 - **n8n – low-code automation**  
   https://n8n.io  
-  A flexible automation tool that combines a visual interface with the ability to write custom code. It supports advanced workflows and integration with 400+ apps and AI models.
+  Elastyczne narzędzie do automatyzacji łączące graficzny interfejs z możliwością pisania własnego kodu. Pozwala tworzyć zaawansowane workflowy i integrować się z ponad 400 aplikacjami oraz modelami AI.
 
-- **Fireflies – meeting assistant**  
+- **Fireflies – asystent spotkań**  
   https://fireflies.ai/  
-  An intelligent meeting assistant that automatically records, transcribes and summarizes calls on popular platforms (Zoom, Google Meet, etc.). It makes it easy to find key moments such as tasks and questions using AI-powered search.
+  Inteligentny asystent spotkań, który automatycznie nagrywa, transkrybuje i podsumowuje rozmowy prowadzone na popularnych platformach (Zoom, Google Meet itd.). Dzięki zaawansowanej wyszukiwarce AI pozwala szybko odnajdywać kluczowe momenty (zadania, pytania itd.).
 
-- **Exploding Topics – trend detection**  
+- **Exploding Topics – wykrywanie trendów**  
   https://explodingtopics.com/  
-  An analytics tool that identifies rising topics before they go mainstream. It helps marketers and founders spot growing interest early by analyzing data from multiple sources.
+  Narzędzie analityczne identyfikujące wschodzące trendy zanim staną się masowe. Pomaga marketerom i przedsiębiorcom wcześnie wychwytywać rosnące zainteresowanie tematami na podstawie analizy danych z wielu źródeł.
 
-- **Extruct – AI market research**  
+- **Extruct – badanie rynku z AI**  
   https://app.extruct.ai/  
-  An advanced AI tool that automates company research and market analysis in real time. It returns lists of companies matching your ideal customer profile along with up-to-date signals like hiring activity or used tech stack.
+  Zaawansowane narzędzie AI automatyzujące research firm i analizę rynku w czasie rzeczywistym. Zwraca listy firm pasujących do profilu idealnego klienta, wzbogacone o aktualne sygnały, takie jak rekrutacja czy stosowany stack technologiczny.
 
-- **Splutter – chatbots & voicebots**  
+- **Splutter – chatboty i voiceboty**  
   https://www.splutter.ai/  
-  A platform for building chatbots and voicebots aimed at automating customer support, lead generation and sales/marketing. It integrates with multiple communication channels and centralizes conversations.
+  Platforma do tworzenia chatbotów i voicebotów, nastawiona na automatyzację obsługi klienta, generowanie leadów oraz wsparcie sprzedaży i marketingu. Integruje się z wieloma kanałami komunikacji i centralizuje obsługę rozmów.
 
-- **Instantly – cold email automation**  
+- **Instantly – automatyzacja cold e-maili**  
   https://app.instantly.ai/  
-  A platform for automating cold email outreach that lets you scale campaigns across many inboxes with no strict sending limits. Built-in AI tools help personalize messages and analyze replies to optimize deliverability and performance.
+  Platforma do automatyzacji kampanii cold mailingowych, która pozwala skalować wysyłkę z wielu skrzynek bez ostrych limitów. Wbudowane narzędzia AI pomagają personalizować wiadomości i analizować odpowiedzi, optymalizując dostarczalność i skuteczność kampanii.
 
-- **Other automation, sales & analysis tools**  
+- **Inne narzędzia do automatyzacji, sprzedaży i analizy**  
   https://zapier.com  
   https://eu2.make.com  
   https://www.magicslides.app/  
@@ -402,4 +402,4 @@ AI tools for workflows, presentations, automation and business productivity.
   https://duncanrogoff.gumroad.com/l/TGnewsScraper  
   https://theresanaiforthat.com/most-saved/  
   https://toolify.ai  
-  These tools are listed in sections related to presentation creation, productivity tools, automation, or sales and promotion. They support task automation, workflow optimization, project management, market analysis and more effective business communication.
+  Te narzędzia pojawiają się w sekcjach dotyczących tworzenia prezentacji, produktywności, automatyzacji oraz sprzedaży i promocji. Wspierają automatyzację zadań, optymalizację workflowów, zarządzanie projektami, analizę rynku oraz skuteczniejszą komunikację biznesową.
