@@ -187,7 +187,8 @@ Narzędzia do generowania i edycji wideo, audio oraz muzyki.
 
 - **Inne narzędzia audio / wideo**  
   https://mubert.com  
-  https://pro.splashmusic.com/  
+  https://pro.splashmusic.com/
+  https://www.capcut.com/
   https://www.veed.io  
   Te narzędzia pojawiają się w kontekście pracy z dźwiękiem oraz promocji/social media, co sugeruje ich wykorzystanie do tworzenia, edycji lub analizy treści audio i wideo.
 
